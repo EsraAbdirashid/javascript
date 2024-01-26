@@ -26,4 +26,6 @@ let customer =[
 }
 ];
 
-console
+console.log(typeof customer);
+
+console.log(customer)
