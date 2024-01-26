@@ -5,4 +5,8 @@ let person ={
         isStudent:true
 }
 
+person.name ="Avav"
+
+console.log(person.name.length)
+
 console.log(person);
