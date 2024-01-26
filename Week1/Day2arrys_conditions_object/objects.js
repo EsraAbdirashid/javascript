@@ -10,3 +10,20 @@ person.name ="Avav"
 console.log(person.name.length)
 
 console.log(person);
+
+let customer =[
+{
+        id:1,
+        name: "Fosiya",
+        address: "10aad",
+        isStudent: true
+},
+{
+        id:2,
+        name:"Aisha",
+        address:"12aad",
+        isStudent:false
+}
+];
+
+console
