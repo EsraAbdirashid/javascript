@@ -4,7 +4,8 @@
   "description": "",
   "main": "conditions.js",
   "scripts": {
-    "conditions": "nodemon conditions.js"
+    "conditions": "nodemon conditions.js",
+    "objects": "nodemon objects.js"
   },
   "keywords": [],
   "author": "",
