@@ -1,0 +1,16 @@
+{
+  "name": "day6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "loop": "nodemon loop.js",
+    "function": "nodemon function.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
