@@ -1,4 +1,10 @@
 function substraction() {
         console.log(4-3)
 }
-substraction()
+substraction();
+
+
+function add(){
+        console.log(7+3)
+}
+add()
