@@ -26,3 +26,9 @@ function salaam(name){
         return"Hello World" + "" +name;
 }
 console.log(salaam("Aisha"));
+
+
+function divide(a,b){
+        return a/b;
+}
+console.log(8/4)
