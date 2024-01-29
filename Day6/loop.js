@@ -1,1 +1,3 @@
-let numbers =(1>)
+for (let E=0; E<=7; E++)
+console.log(E)
+
