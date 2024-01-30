@@ -7,3 +7,7 @@ document.getElementById('h6').innerText = "DAD";
 
 document.querySelector('.p').innerText = "hhhhhhhhh";
 document.querySelector('.M').innerHTML = "Xisaab";
+
+// variable lagu shubayo
+let sheeko = document.querySelector('.sheeko')
+sheeko.innerText = "waxaa mahad oodhan iska leh Allah subxanahu watacalaa🤲"
