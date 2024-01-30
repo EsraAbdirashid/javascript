@@ -1,10 +1,12 @@
+
+//  bytagName
 document.querySelector('h2').innerText = "kusoo dhawow cashirka muraajicada ah ee DOM";
 document.querySelector('div').innerText = "31/1/2024";
 
-
+// byId
 document.getElementById('h5').innerText = "Miss Hamda";
 document.getElementById('h6').innerText = "DAD";
-
+// by className
 document.querySelector('.p').innerText = "hhhhhhhhh";
 document.querySelector('.M').innerHTML = "Xisaab";
 
