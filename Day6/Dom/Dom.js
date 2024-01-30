@@ -12,6 +12,6 @@ document.querySelector('.M').innerHTML = "Xisaab";
 let sheeko = document.querySelector('.sheeko')
 sheeko.innerText = "waxaa mahad oodhan iska leh Allah subxanahu watacalaa🤲";
 
-// let salaan = document.querySelector('#salaan')
-// salaan.innerHTML = "ASC WR WB"
+let salaan = document.querySelector('#salaan')
+salaan.innerHTML = "ASC WR WB"
 
