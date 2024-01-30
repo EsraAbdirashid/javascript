@@ -4,3 +4,5 @@ document.querySelector('div').innerText = "31/1/2024";
 
 document.getElementById('h5').innerText = "Miss Hamda";
 document.getElementById('h6').innerText = "DAD";
+
+document.querySelector('.p').innerText = "hhhhhhhhh"
