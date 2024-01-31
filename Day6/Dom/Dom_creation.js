@@ -21,4 +21,7 @@ personName.style.marginTop='10px';
 
 // styling history by using backtill symbol
 
+History.style.His=`
+backgroundColor= white;
+`
 History.styleText.myHis
