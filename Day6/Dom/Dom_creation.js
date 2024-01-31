@@ -11,3 +11,4 @@ personName.style.marginLeft ='450px';
 personName.style.fontSize='40px';
 personName.style.padding='20px';
 personName.style.borderRadius='10px';
+personName.style.marginTop='10px'
