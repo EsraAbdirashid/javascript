@@ -7,4 +7,6 @@ body.appendChild(personName);
 
 personName.style.backgroundColor='white';
 personName.style.color='orange';
-personName.style.textAlign='center';
+
+personName.style.marginLeft ='450px'
+personName.style.fontSize='40px'
