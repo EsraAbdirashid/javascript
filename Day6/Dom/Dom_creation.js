@@ -1,7 +1,9 @@
 let body = document.querySelector('body');
-let personName = document.createElement('name')
+let personName = document.createElement('name');
+let image = document.createElement('img');
 
 personName.innerText="Esra Abdirashid";
+img.src = ''
 
 body.appendChild(personName);
 
