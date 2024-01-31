@@ -1,11 +1,14 @@
 let body = document.querySelector('body');
 let personName = document.createElement('name');
 let image = document.createElement('img');
+let history = document.createElement('His')
 
 personName.innerText="Esra Abdirashid";
-img.src = ''
+img.src = './img.png';
+History.innerText ="I'am fullstack Dev (website design, programming ,developer)"
 
 body.appendChild(personName);
+body.appendChild(img);
 
 personName.style.backgroundColor='white';
 personName.style.color='orange';
