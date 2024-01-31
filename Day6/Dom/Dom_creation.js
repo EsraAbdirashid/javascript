@@ -9,6 +9,7 @@ History.innerText ="I'am fullstack Dev (website design, programming ,developer)"
 
 body.appendChild(personName);
 body.appendChild(img);
+body.appendChild(His);                                          
 
 personName.style.backgroundColor='white';
 personName.style.color='orange';
