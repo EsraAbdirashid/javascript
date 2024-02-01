@@ -32,7 +32,7 @@ message.style.cssText = messageStyle;
 
 image.style.width = '300px';
 image.style.borderRadius = '100%';
-// image.style.boxShadow = '2px 2px 14px white';
+image.style.boxShadow = '2px 2px 14px white';
 // image.style.marginLeft = '800px';
 
 
