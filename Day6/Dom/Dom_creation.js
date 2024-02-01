@@ -40,6 +40,6 @@ btnClick.style.color = 'white';
 btnClick.style.border = '0px';
 btnClick.style.backgroundColor = 'seagreen';
 btnClick.style.borderRadius = '10px';
-// btnClick.style.paddingLeft = '20px';
+btnClick.style.paddingLeft = '20px';
 // btnClick.style.padding = '10px';
 // btnClick.style.fontSize = '30px';
