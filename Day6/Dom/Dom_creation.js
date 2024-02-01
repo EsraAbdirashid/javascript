@@ -8,7 +8,7 @@ message.textContent = 'Mss Esra!';
 title.innerText = "This is a test title";
 image.src = './img.png';
 
-// body.appendChild(message);
+body.appendChild(message);
 // body.append(title);
 // body.appendChild(image)
 
