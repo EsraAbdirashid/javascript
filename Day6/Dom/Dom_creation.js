@@ -10,7 +10,7 @@ image.src = './img.png';
 
 body.appendChild(message);
 body.append(title);
-// body.appendChild(image)
+body.appendChild(image)
 
 // // Styling
 
