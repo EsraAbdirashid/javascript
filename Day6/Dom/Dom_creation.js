@@ -1,8 +1,8 @@
-let body  = document.querySelector('body')
-let message = document.createElement('p')
-let title = document.createElement('span')
-let image = document.createElement('img')
-let btnClick  = document.querySelector('button')
+let body  = document.querySelector('body');
+let message = document.createElement('p');
+let title = document.createElement('span');
+let image = document.createElement('img');
+let btnClick  = document.querySelector('button');
 
 // message.textContent = 'Mss Esra!';
 // title.innerText = "This is a test title";
