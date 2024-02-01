@@ -36,7 +36,7 @@ image.style.boxShadow = '2px 2px 14px white';
 image.style.marginLeft = '800px';
 
 
-// btnClick.style.color = 'white';
+btnClick.style.color = 'white';
 // btnClick.style.border = '0px';
 // btnClick.style.backgroundColor = 'seagreen';
 // btnClick.style.borderRadius = '10px';
