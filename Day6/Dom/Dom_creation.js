@@ -15,7 +15,7 @@ body.appendChild(image)
 // // Styling
 
 
-// let messageStyle= `
+let messageStyle= `
 // color: dodgerblue;
 // text-align:center;
 // font-size: 70px;
