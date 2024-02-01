@@ -5,7 +5,7 @@ let image = document.createElement('img');
 let btnClick  = document.querySelector('button');
 
 message.textContent = 'Mss Esra!';
-// title.innerText = "This is a test title";
+title.innerText = "This is a test title";
 // image.src = './img.png';
 
 // body.appendChild(message);
