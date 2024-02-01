@@ -38,7 +38,7 @@ image.style.marginLeft = '800px';
 
 btnClick.style.color = 'white';
 btnClick.style.border = '0px';
-// btnClick.style.backgroundColor = 'seagreen';
+btnClick.style.backgroundColor = 'seagreen';
 // btnClick.style.borderRadius = '10px';
 // btnClick.style.paddingLeft = '20px';
 // btnClick.style.padding = '10px';
