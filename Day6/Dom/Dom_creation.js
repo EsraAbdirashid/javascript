@@ -27,7 +27,7 @@ let messageStyle= `
 // margin: 20px;
 // box-shadow: 2px 2px 14px white;
 // `
-// message.style.cssText = messageStyle;
+message.style.cssText = messageStyle;
 
 
 // image.style.width = '300px';
