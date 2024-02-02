@@ -9,6 +9,6 @@ start.addEventListener('click',()=>{
                 timer.innerHTML = +seconds
 
                 seconds++
-        },100)
-        
-})
+        },100);
+
+});
