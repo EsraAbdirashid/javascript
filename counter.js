@@ -1,7 +1,7 @@
-let Count = document.getElementById('Count');
+let count = document.getElementById('count');
 
 let Counter = 0
 
-function CountUp (){
+function countUp (){
   Count.innerHTML= Counter++;
 }
