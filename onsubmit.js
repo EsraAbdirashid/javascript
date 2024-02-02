@@ -8,6 +8,6 @@ form.addEventListener('click',(e)=>{
         input.value;
         let h2 = document.createElement('h2');
 
-        // div.appendChild(h2)
+        div.appendChild(h2)
    
 })
