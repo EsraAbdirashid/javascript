@@ -4,10 +4,11 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>counter</title>
+        <script src="https://cdn.tailwindcss.com"></script>
         <script src="./counter.js" defer></script>
 </head>
 <body>
-        <button onclick="countUp()">countUp</button>
+        <button onclick="countUp()" class="bg-green-600 p-1 m-2 text-white rounded-md hover:bg-green-400 font-bold">countUp</button>
         <button id="count">0</button>
         <button onclick="countDown()">countDown</button>
 </body>
