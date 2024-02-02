@@ -3,7 +3,7 @@ let input = document.querySelector('#input-value');
 
 
 form.addEventListener('click',(e)=>{
-//         e.preventDefault();
+        e.preventDefault();
 //         input.value;
 //         console.log(input.value);
 // })
