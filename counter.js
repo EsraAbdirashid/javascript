@@ -6,6 +6,6 @@ function countUp (){
   count.innerHTML= Counter++;
 }
 
-function countUp (){
+function countDown (){
         count.innerHTML= Counter--;
       }
