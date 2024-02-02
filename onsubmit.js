@@ -9,5 +9,6 @@ form.addEventListener('click',(e)=>{
         let h2 = document.createElement('h2');
          h2.innerHTML=input.value;
         div.appendChild(h2)
+        input.value='';
    
 })
