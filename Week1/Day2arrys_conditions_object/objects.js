@@ -42,6 +42,12 @@ let customer =[
         address:"16aad",
         isStudent:false
 },
+{
+        id:6,
+        name:"Aisha",
+        address:"12aad",
+        isStudent:false
+}
 ];
 
 console.log(typeof customer);
