@@ -38,7 +38,7 @@ let customer =[
 },
 {
         id:5,
-        name:"maxamed abdi",
+        name:"maxamed abdi omer",
         address:"12aad",
         isStudent:false
 }
