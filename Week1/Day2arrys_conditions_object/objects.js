@@ -37,8 +37,8 @@ let customer =[
         isStudent:True
 },
 {
-        id:2,
-        name:"Aisha",
+        id:5,
+        name:"maxamed abdi",
         address:"12aad",
         isStudent:false
 }
