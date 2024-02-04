@@ -41,7 +41,7 @@ let customer =[
         name:"maxamed abdi omer",
         address:"16aad",
         isStudent:false
-}
+},
 ];
 
 console.log(typeof customer);
