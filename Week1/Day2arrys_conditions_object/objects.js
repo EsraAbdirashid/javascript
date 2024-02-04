@@ -29,6 +29,12 @@ let customer =[
         name:"Niciima ",
         address:"15aad",
         isStudent:true
+},
+{
+        id:2,
+        name:"khalid",
+        address:"15aad",
+        isStudent:True
 }
 ];
 
