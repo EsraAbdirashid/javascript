@@ -25,7 +25,7 @@ let customer =[
         isStudent:false
 },
 {
-        id:2,
+        id:3,
         name:"Niciima ",
         address:"15aad",
         isStudent:true
@@ -35,6 +35,12 @@ let customer =[
         name:"khalid",
         address:"15aad",
         isStudent:True
+},
+{
+        id:2,
+        name:"Aisha",
+        address:"12aad",
+        isStudent:false
 }
 ];
 
