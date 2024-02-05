@@ -15,3 +15,5 @@ btnAdd.addEventListener("click", ()=>{
 btnDelete.addEventListener('click', ()=>{
         div.remove();
 })
+
+const savedData = localStorage.getItem("data");
