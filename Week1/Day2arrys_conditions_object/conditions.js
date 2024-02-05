@@ -5,4 +5,4 @@ console .log(result)
 
 
 let numbersireed = babyad
-let natijada = numbersireed <babyad
+let natijada = numbersireed <babyad? "waa kha"
