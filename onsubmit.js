@@ -6,7 +6,7 @@ let div = document.querySelector('div');
 form.addEventListener('click',(e)=>{
         e.preventDefault();
        if(input.value === ''){
-          alert("yhtkyuul")
+          alert("warning")
        }else{
         input.value;
         let h2 = document.createElement('h2');

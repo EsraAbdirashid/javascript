@@ -6,4 +6,4 @@ console .log(result)
 
 let numbersireed = babyad
 let natijada = numbersireed <babyad? "waa khalad!" : "waa sax";
-console.log(natijada)
+console.log(natijada);
