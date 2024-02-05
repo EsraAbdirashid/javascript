@@ -5,15 +5,13 @@ let div = document.querySelector('div');
 
 form.addEventListener('click',(e)=>{
         e.preventDefault();
-       if(input.value === ''){
-          alert("warning")
-       }else{
+      
         input.value;
         let h2 = document.createElement('h2');
          h2.innerHTML=input.value;
         div.appendChild(h2);
         input.value='';
-       }
+       
 })
        
      
