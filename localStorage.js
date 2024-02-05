@@ -11,3 +11,7 @@ btnAdd.addEventListener("click", ()=>{
         div.append('h2');
         inputTask.value = '';
 })
+
+btnDelete.addEventListener('click', ()=>{
+        div.remove();
+})
