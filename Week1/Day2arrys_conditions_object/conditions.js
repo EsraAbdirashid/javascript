@@ -4,4 +4,4 @@ console .log(result)
 
 
 
-let number-sireed = babyad
+let numbersireed = babyad
