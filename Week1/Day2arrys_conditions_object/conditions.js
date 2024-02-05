@@ -5,4 +5,4 @@ console .log(result)
 
 
 let numbersireed = babyad
-let
+let natijada = numbersireed <babyad
