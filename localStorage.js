@@ -1,7 +1,7 @@
 const inputTask = document.getElementById("InputTask");
 const btnAdd = document.getElementById("btnAdd");
-const Remove = document.getElementById("Remove");
-const btnDelete = document.querySelector("btnDelete");
+const remove = document.getElementById("Remove");
+const btnDelete = document.getElementById("btnDelete");
 
 btnAdd.addEventListener("click", ()=>{
         const data = inputTask.value ;
@@ -13,7 +13,7 @@ btnAdd.addEventListener("click", ()=>{
 })
 
 btnDelete.addEventListener('click', ()=>{
-        Remove.remove();
+        remove.remove();
 })
 
 const savedData = localStorage.getItem("data");
