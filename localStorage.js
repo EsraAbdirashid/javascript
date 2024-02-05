@@ -18,7 +18,7 @@ btnDelete.addEventListener('click', ()=>{
 
 const savedData = localStorage.getItem("data");
 if (savedData){
-        const h2 = document.createElement("h2")
-        h2.innerHTML = savedData;
-        div.appendChild(h2);
+        const p = document.createElement("p")
+        p.innerHTML = savedData;
+        div.appendChild(p);
 }
