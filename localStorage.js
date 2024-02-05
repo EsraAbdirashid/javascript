@@ -5,4 +5,9 @@ const btnDelete = document.querySelector("btnDelete");
 
 btnAdd.addEventListener("click", ()=>{
         const data = inputTask.value ;
+        localStorage.setItem("data",data)
+        // const h2 = document.createElement("h2");
+        // h2.innerHTML = data;
+        // div.append('h2');
+        // inputTask.value = '';
 })
