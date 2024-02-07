@@ -7,9 +7,11 @@ class Customers{
                 this.dateTime = dateTime;
         }
      
-        const person1 = ("Esra abdirashid")
+  
 
         getCustomers(){
                 return `id:${this.id} `
         }
 }
+const person1 =new Customers (1,'Esra','Abdirashid',+7865432,new Date)
+console.log(person1)
