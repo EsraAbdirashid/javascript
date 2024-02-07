@@ -6,7 +6,10 @@ class Customers{
                 this.phone = phone;
                 this.dateTime = dateTime;
         }
-        getCustomer({
-                return
-        })
+     
+        const person1 = ("Esra abdirashid")
+
+        getCustomers(){
+                return `id:${this.id} `
+        }
 }
