@@ -6,4 +6,7 @@ class Customers{
                 this.phone = phone;
                 this.dateTime = dateTime;
         }
+        getCustomer({
+                return
+        })
 }
