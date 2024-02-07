@@ -1,4 +1,4 @@
-
+import {Persons} from './class/class.js'
 
 const person1 =new Customers (1,'Esra','Abdirashid',+7865432,new Date);
 const person2 =new Customers (2,'Esra','Abdirashid',+7865432,new Date);
