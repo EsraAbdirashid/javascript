@@ -6,12 +6,8 @@ export class Persons{
                 this.phone = phone;
                 this.dateTime = dateTime;
         }
-     
-  
-
         getCustomers(){
                 return `id:${this.id} firstName:${this.firstName} lastName:${this.lastName}
                 phone:${this.phone}, dateTime:${this.dateTime}
                 `
-        }
-}
+}}
