@@ -1,7 +1,7 @@
 let Items = ["javascript","TypeScript","React"];
 let newItems = ["NodeJs","PostgreSQL","TailwindCss"]
 let Person = [
-    {id:1,name: "Hasi",address: "123Street"}
+    {id:1,name: "Avav",address: "123Street"}
 ]
 let newPerson =[
     { id:2,name: "Moumin",address: "456Street"},
