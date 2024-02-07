@@ -1,3 +1,5 @@
 class Customers{
-        constructor(id,firstName,lastName,phone,dateTime)
+        constructor(id, firstName, lastName, phone, dateTime){
+                this.id = id;
+        }
 }
