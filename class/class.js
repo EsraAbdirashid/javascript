@@ -10,7 +10,9 @@ class Customers{
   
 
         getCustomers(){
-                return `id:${this.id} firstName:${this.firstName} lastName:${this.lastName} `
+                return `id:${this.id} firstName:${this.firstName} lastName:${this.lastName}
+                phone:${this.phone}, dateTime:${this.dateTime}
+                `
         }
 }
 const person1 =new Customers (1,'Esra','Abdirashid',+7865432,new Date)
