@@ -9,3 +9,6 @@ const filterNumbers = numbers.filter(Number=>{
 // map
 
 const names = ["Mohamed" ,"Abdillahi" ,"Abdimudalib", "Abdimanaaf"];
+const mapNames = names.map(name=>{
+        
+})
