@@ -20,3 +20,6 @@ const reduceNumbers = numbers.reduce((total,number)=>{
         return total + number
 })
 console.log(reduceNumbers);
+
+// foreach
+
