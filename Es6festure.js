@@ -12,3 +12,4 @@ const names = ["Mohamed" ,"Abdillahi" ,"Abdimudalib", "Abdimanaaf"];
 const mapNames = names.map(name=>{
         return name.toLocaleUpperCase();
 })
+console.log(mapNames);
