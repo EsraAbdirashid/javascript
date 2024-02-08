@@ -34,6 +34,12 @@ const persons = [
                 name: "Hamda",
                 address: "10aad",
                 phone: "992914707"
+        },
+        {
+                id: 3,
+                name: "Avav",
+                address: "14aaad",
+                phone: "8975645342312"
         }
 ]
 persons.forEach(person=>{
