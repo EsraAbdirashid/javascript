@@ -17,5 +17,5 @@ console.log(mapNames);
 // Reduce
 
 const reduceNumbers = numbers.reduce((total,number)=>{
-        
+        return total + number
 })
