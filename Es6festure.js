@@ -7,3 +7,5 @@ const filterNumbers = numbers.filter(Number=>{
 });
 
 // map
+
+const names = ["Mohamed" ,"Abdillahi" ,"Abdimudalib", "Abdimanaaf"];
