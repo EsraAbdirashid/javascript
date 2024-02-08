@@ -32,7 +32,7 @@ const person = [
         {
                 id:"2",
                 name: "Hamda",
-                
-
+                address: "10aad",
+                phone: "992914707"
         }
 ]
