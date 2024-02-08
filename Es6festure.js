@@ -24,13 +24,13 @@ console.log(reduceNumbers);
 // foreach
 const persons = [
         {
-                id: "1",
+                id: 1,
                 name: "Esra",
                 address: "15aad",
                 phone: "921236763"
         },
         {
-                id:"2",
+                id:2,
                 name: "Hamda",
                 address: "10aad",
                 phone: "992914707"
