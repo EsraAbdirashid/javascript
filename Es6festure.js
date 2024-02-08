@@ -22,4 +22,12 @@ const reduceNumbers = numbers.reduce((total,number)=>{
 console.log(reduceNumbers);
 
 // foreach
-
+const person = [
+        {
+                id: "1",
+                name: "Esra",
+                address: "15aad",
+                phone: "921236763"
+        },
+        
+]
