@@ -29,5 +29,10 @@ const person = [
                 address: "15aad",
                 phone: "921236763"
         },
-        
+        {
+                id:"2",
+                name: "Hamda",
+                
+
+        }
 ]
