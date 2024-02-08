@@ -36,3 +36,6 @@ const persons = [
                 phone: "992914707"
         }
 ]
+persons.forEach(person=>{
+        console.log(person)
+})
