@@ -14,4 +14,6 @@ const mapNames = names.map(name=>{
 })
 console.log(mapNames);
 
+// Reduce
 
+const reduceNumbers = numbers
