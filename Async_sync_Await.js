@@ -7,7 +7,7 @@ const getData = async () => {
     .then((response) => response.json())
     .then((data) => {
       data.forEach((user) => {
-//         const markup = `<p>userId:${user.id}</p>  <pre> Title: ${user.title}</pre> <span>Body:${user.body} </span> `;
+        const markup = `<p>userId:${user.id}</p>  <pre> Title: ${user.title}</pre> <span>Body:${user.body} </span> `;
 //         div.insertAdjacentHTML("beforeend", markup);
 //       });
 //     });
