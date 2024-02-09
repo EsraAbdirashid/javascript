@@ -3,7 +3,7 @@ const span = document.querySelector("span");
 const pre = document.querySelector("pre");
 const div = document.querySelector('div')
 const getData = async () => {
-//   const response = await fetch("https://jsonplaceholder.typicode.com/posts")
+  const response = await fetch("https://jsonplaceholder.typicode.com/posts")
 //     .then((response) => response.json())
 //     .then((data) => {
 //       data.forEach((user) => {
