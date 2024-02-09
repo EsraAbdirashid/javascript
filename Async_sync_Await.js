@@ -8,7 +8,7 @@ const getData = async () => {
     .then((data) => {
       data.forEach((user) => {
         const markup = `<p>userId:${user.id}</p>  <pre> Title: ${user.title}</pre> <span>Body:${user.body} </span> `;
-//         div.insertAdjacentHTML("beforeend", markup);
+        div.insertAdjacentHTML("beforeend", markup);
 //       });
 //     });
 // };
